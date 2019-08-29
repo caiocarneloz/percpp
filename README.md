@@ -1,2 +1,2 @@
 # percpp
-Simple perceptron code developed to a master's class lesson.
+Perceptron neural network developed to a master's class lesson.
